@@ -9,9 +9,7 @@ CodeTengu is an organization of the developers, for the developers, by the devel
 
 ## [CodeTengu Weekly](http://weekly.codetengu.com/)
 
-### Curators
-
-依照加入時間排序。
+以下是 CodeTenguer 列表，依照加入時間排序：
 
 * [@vinta](https://github.com/vinta)
 * [@saiday](https://github.com/saiday)
