@@ -18,3 +18,7 @@ CodeTengu is an organization of the developers, for the developers, by the devel
 * [@tzangms](https://github.com/tzangms)
 * [@fukuball](https://github.com/fukuball)
 * [@wancw](https://github.com/wancw)
+
+## CodeTengu XYZ
+
+籌備中的新項目，先不要跟其他人說。
