@@ -2,10 +2,12 @@
 
 [![Join the chat at https://gitter.im/codetengu/headquarters](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codetengu/headquarters?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-CodeTengu is an organization of the developers, for the developers, by the developers.
+致力於解決開發者之間的資訊不對稱。
 
 * 查看公告和待辦事項請至 [GitHub Issues](https://github.com/codetengu/headquarters/issues)。
 * 討論和話唬爛請至 [Gitter](https://gitter.im/codetengu/headquarters)。
+
+Follow us on [Facebook](https://www.facebook.com/codetengu) and [Twitter](https://twitter.com/codetengu).
 
 ## [CodeTengu Weekly](http://weekly.codetengu.com/)
 
@@ -16,7 +18,4 @@ CodeTengu is an organization of the developers, for the developers, by the devel
 * [@tzangms](https://github.com/tzangms)
 * [@fukuball](https://github.com/fukuball)
 * [@wancw](https://github.com/wancw)
-
-## CodeTengu XYZ
-
-籌備中的新項目，先不要跟其他人說。
+* [@adamp33](https://github.com/adamp33)
