@@ -11,7 +11,7 @@ Follow us on [Facebook](https://www.facebook.com/codetengu) and [Twitter](https:
 
 ## [CodeTengu Weekly](http://weekly.codetengu.com/)
 
-以下是 CodeTenguer 列表，依照加入時間排序：
+以下是目前的 curator 列表，依照加入時間排序：
 
 * [@vinta](https://github.com/vinta)
 * [@saiday](https://github.com/saiday)
