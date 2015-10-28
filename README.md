@@ -23,3 +23,5 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@adamp33](https://github.com/adamp33) - JavaScript（前端）, CSS
 * [@tonytonyjan](https://github.com/tonytonyjan) - Ruby, Ruby on Rails
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
+
+特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 幫我們設計了一個煞氣的 LOGO。
