@@ -19,3 +19,4 @@ Follow us on [Facebook](https://www.facebook.com/codetengu) and [Twitter](https:
 * [@fukuball](https://github.com/fukuball) - PHP, 機器學習
 * [@wancw](https://github.com/wancw) - Node.js, Android
 * [@adamp33](https://github.com/adamp33) - JavaScript（前端）, CSS
+* [@tonytonyjan](https://github.com/tonytonyjan) - Ruby, Ruby on Rails
