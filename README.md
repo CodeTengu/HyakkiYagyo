@@ -11,9 +11,9 @@ Follow us on [Facebook](https://www.facebook.com/codetengu) and [Twitter](https:
 
 ## [CodeTengu Weekly](http://weekly.codetengu.com/)
 
-CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每一期會從目前的 curator 名單中選出三位來負責當期的內容。會提前兩個禮拜在 [GitHub Issues](https://github.com/codetengu/headquarters/issues) 公布每一期的 curator 名單。
+CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每一期會從目前的 curator 名單中選出三位來負責當期的內容。會提前一個禮拜在 [GitHub Issues](https://github.com/codetengu/headquarters/issues) 公布每一期的 curator 名單。
 
-按照慣例，我們會在每一期的發刊日前一天晚上的 10:00 截稿，負責當期內容的 curator 每人可以精選 5 則你覺得有價值的文章放進 Weekly 裡，主題和文章的難易度沒有限制，原創或是轉貼都可以。
+按照慣例，我們會在每一期的發刊日前一天的 PM 10:00 截稿，負責當期內容的 curator 每人可以精選 5 則你覺得有價值的文章放進 Weekly 裡，主題和文章的難易度沒有限制，原創或是轉貼都可以。
 
 以下是目前的 curator 列表及各自擅長的領域，依照加入時間排序：
 
@@ -22,7 +22,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, 技術團隊管理
 * [@fukuball](https://github.com/fukuball) - PHP, 機器學習
 * [@wancw](https://github.com/wancw) - Node.js, Android
-* [@adamp33](https://github.com/adamp33) - JavaScript（前端）, CSS
+* [@adamp33](https://github.com/adamp33) - JavaScript, CSS
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
 * [@chiahsien](https://github.com/chiahsien) - iOS
 * [@hiroshiyui](https://twitter.com/hiroshiyui) - Erlang, Elixir
