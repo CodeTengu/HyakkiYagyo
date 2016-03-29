@@ -25,5 +25,6 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@adamp33](https://github.com/adamp33) - JavaScript（前端）, CSS
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
 * [@chiahsien](https://github.com/chiahsien) - iOS
+* [@hiroshiyui](https://twitter.com/hiroshiyui) - Erlang, Elixir
 
 特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 設計的煞氣的 LOGO。
