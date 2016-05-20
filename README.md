@@ -22,11 +22,14 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, 技術團隊管理
 * [@fukuball](https://github.com/fukuball) - PHP, 機器學習
 * [@wancw](https://github.com/wancw) - Node.js, Android
-* [@adamp33](https://github.com/adamp33) - JavaScript, CSS
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
 * [@chiahsien](https://github.com/chiahsien) - iOS (Objective-C & Swift)
 * [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir
 * [@uranusjr](https://github.com/uranusjr) - 有的沒的
 * [@kkdai](https://github.com/kkdai) - Go
+
+已離開策展群的 curator，依照離開時間排序：
+
+* [@adamp33](https://github.com/adamp33) - JavaScript, CSS
 
 特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 設計的煞氣的 LOGO。
