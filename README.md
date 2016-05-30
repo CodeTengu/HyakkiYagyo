@@ -27,6 +27,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir
 * [@uranusjr](https://github.com/uranusjr) - 有的沒的
 * [@kkdai](https://github.com/kkdai) - Go
+* [@yhsiang](https://github.com/yhsiang) - Node.js, Front End
 
 已離開策展群的 curator，依照離開時間排序：
 
