@@ -22,6 +22,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, 技術團隊管理
 * [@fukuball](https://github.com/fukuball) - PHP, 機器學習
 * [@wancw](https://github.com/wancw) - Node.js, Android
+* [@kako0507](https://github.com/kako0507) - JavaScript
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
 * [@chiahsien](https://github.com/chiahsien) - iOS (Objective-C & Swift)
 * [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir
