@@ -17,17 +17,17 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 
 以下是目前的 curator 名單及各自擅長的領域，依照加入時間排序：
 
-* [@vinta](https://github.com/vinta) - Python, JavaScript, MySQL, NoSQL, DevOps
+* [@vinta](https://github.com/vinta) - Python, MySQL, NoSQL, DevOps
 * [@saiday](https://github.com/saiday) - iOS (Objective-C & Swift), Android
 * [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, 技術團隊管理
 * [@fukuball](https://github.com/fukuball) - PHP, 機器學習
-* [@kako0507](https://github.com/kako0507) - JavaScript
+* [@kako0507](https://github.com/kako0507) - JavaScript, Frontend
 * [@mingderwang](https://github.com/mingderwang) - Go, DevOps
 * [@chiahsien](https://github.com/chiahsien) - iOS (Objective-C & Swift)
 * [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir
 * [@uranusjr](https://github.com/uranusjr) - 有的沒的
 * [@kkdai](https://github.com/kkdai) - Go
-* [@yhsiang](https://github.com/yhsiang) - Node.js, Front End
+* [@yhsiang](https://github.com/yhsiang) - Node.js, Frontend
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
