@@ -1,4 +1,4 @@
-# [CodeTengu](http://codetengu.com/)
+# [CodeTengu](https://codetengu.com/)
 
 [![Join the chat at https://gitter.im/codetengu/headquarters](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codetengu/headquarters?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -9,7 +9,7 @@
 
 Follow us on [Facebook](https://www.facebook.com/codetengu) and [Twitter](https://twitter.com/codetengu).
 
-## [CodeTengu Weekly](http://weekly.codetengu.com/)
+## [CodeTengu Weekly](https://weekly.codetengu.com/)
 
 CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每一期會從目前的 curator 名單中選出三位來負責當期的內容。會提前一、二個禮拜在 [GitHub Issues](https://github.com/codetengu/headquarters/issues) 公布每一期的 curator 名單。
 
