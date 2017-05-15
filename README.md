@@ -28,6 +28,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@uranusjr](https://github.com/uranusjr) - 有的沒的
 * [@kkdai](https://github.com/kkdai) - Go
 * [@yhsiang](https://github.com/yhsiang) - Node.js, Frontend
+* [@johnlinvc](https://github.com/johnlinvc) - Ruby, Swift, Erlang, DevOps
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
