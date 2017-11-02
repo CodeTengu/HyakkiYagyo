@@ -28,11 +28,11 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@kkdai](https://github.com/kkdai) - Go
 * [@yhsiang](https://github.com/yhsiang) - JavaScript, Node.js
 * [@johnlinvc](https://github.com/johnlinvc) - Ruby, Swift, Erlang, DevOps
+* [@wancw](https://github.com/wancw) - Node.js, Android
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
 * [@adamp33](https://github.com/adamp33) - JavaScript, CSS
-* [@wancw](https://github.com/wancw) - Node.js, Android
 
 特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 設計的煞氣的 LOGO。
 
