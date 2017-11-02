@@ -20,14 +20,15 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@saiday](https://github.com/saiday) - iOS (Objective-C & Swift), Android
 * [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, Management
 * [@fukuball](https://github.com/fukuball) - PHP, Machine Learning
-* [@kako0507](https://github.com/kako0507) - JavaScript
 * [@mingderwang](https://github.com/mingderwang) - Blockchain, Go, DevOps
+* [@kako0507](https://github.com/kako0507) - JavaScript
 * [@chiahsien](https://github.com/chiahsien) - iOS (Objective-C & Swift)
 * [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir, DevOps
 * [@uranusjr](https://github.com/uranusjr) - Python, C
 * [@kkdai](https://github.com/kkdai) - Go
 * [@yhsiang](https://github.com/yhsiang) - JavaScript, Node.js
 * [@johnlinvc](https://github.com/johnlinvc) - Ruby, Swift, Erlang, DevOps
+* [@drumrick](https://github.com/drumrick) - Machine Learning, Deep Learning
 * [@wancw](https://github.com/wancw) - Node.js, Android
 
 以下是已退出的 curator 名單，依照離開時間排序：
