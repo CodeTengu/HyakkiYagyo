@@ -29,6 +29,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@johnlinvc](https://github.com/johnlinvc) - Ruby, Swift, Erlang, DevOps
 * [@drumrick](https://github.com/drumrick) - Machine Learning, Deep Learning
 * [@wancw](https://github.com/wancw)
+* [@allanlei](https://github.com/allanlei)
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
