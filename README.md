@@ -16,25 +16,25 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 
 以下是目前的 curator 名單及各自擅長的領域，依照加入時間排序：
 
-* [@vinta](https://github.com/vinta) - Python, MySQL, Recommender System
-* [@saiday](https://github.com/saiday) - iOS (Objective-C & Swift), Android
-* [@tzangms](https://github.com/tzangms) - Python, JavaScript, Growth Hacking, Management
-* [@fukuball](https://github.com/fukuball) - PHP, Machine Learning, Blockchain
-* [@mingderwang](https://github.com/mingderwang) - Blockchain, Go, DevOps
-* [@kako0507](https://github.com/kako0507) - JavaScript, CSS
-* [@chiahsien](https://github.com/chiahsien) - iOS (Objective-C & Swift)
-* [@uranusjr](https://github.com/uranusjr) - Python, C
-* [@kkdai](https://github.com/kkdai) - Go, Kubernetes
-* [@yhsiang](https://github.com/yhsiang) - JavaScript, Node.js
-* [@johnlinvc](https://github.com/johnlinvc) - Ruby, Swift, Erlang, DevOps
-* [@drumrick](https://github.com/drumrick) - Machine Learning, Deep Learning
+* [@vinta](https://github.com/vinta)
+* [@saiday](https://github.com/saiday)
+* [@tzangms](https://github.com/tzangms)
+* [@fukuball](https://github.com/fukuball)
+* [@mingderwang](https://github.com/mingderwang)
+* [@kako0507](https://github.com/kako0507)
+* [@chiahsien](https://github.com/chiahsien)
+* [@uranusjr](https://github.com/uranusjr)
+* [@kkdai](https://github.com/kkdai)
+* [@yhsiang](https://github.com/yhsiang)
+* [@johnlinvc](https://github.com/johnlinvc)
+* [@drumrick](https://github.com/drumrick)
 * [@wancw](https://github.com/wancw)
 * [@allanlei](https://github.com/allanlei)
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
-* [@adamp33](https://github.com/adamp33) - JavaScript, CSS
-* [@hiroshiyui](https://github.com/hiroshiyui) - Erlang, Elixir, DevOps
+* [@adamp33](https://github.com/adamp33)
+* [@hiroshiyui](https://github.com/hiroshiyui)
 
 特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 設計的煞氣的 LOGO。
 
