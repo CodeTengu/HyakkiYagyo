@@ -30,6 +30,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@wancw](https://github.com/wancw)
 * [@allanlei](https://github.com/allanlei)
 * [@theJian](https://github.com/thejian)
+* [@lucienlee](https://github.com/lucienlee)
 
 以下是已退出的 curator 名單，依照離開時間排序：
 
