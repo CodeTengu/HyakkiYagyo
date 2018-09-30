@@ -26,7 +26,6 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 * [@uranusjr](https://github.com/uranusjr)
 * [@yhsiang](https://github.com/yhsiang)
 * [@johnlinvc](https://github.com/johnlinvc)
-* [@drumrick](https://github.com/drumrick)
 * [@wancw](https://github.com/wancw)
 * [@allanlei](https://github.com/allanlei)
 * [@theJian](https://github.com/thejian)
@@ -36,6 +35,7 @@ CodeTengu Weekly 會在 GMT+8 時區的每個禮拜一早上 10:00 出刊，每�
 
 * [@adamp33](https://github.com/adamp33)
 * [@hiroshiyui](https://github.com/hiroshiyui)
+* [@drumrick](https://github.com/drumrick)
 * [@kkdai](https://github.com/kkdai)
 
 特別感謝 [@rocavence](https://www.linkedin.com/in/rocavence) 設計的煞氣的 LOGO。
